@@ -1,5 +1,8 @@
 # Cabeleleila Teste - DSIN 
 
+Um site para ajudar no salão da leila cabeleleila. 
+Foi desenvolvido utilizando React.js e Node.js, além do MYSQL Workbench para o banco de dados.
+
 # Para rodar a aplicação:
 
 * cd server
