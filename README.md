@@ -1,6 +1,6 @@
 # Cabeleleila Teste - DSIN 
 
-- Para rodar a aplicação:
+# Para rodar a aplicação:
 
 * cd server
 * npm i
@@ -12,7 +12,7 @@
 * npm i
 * npm start
 
-- Banco de dados
+# Banco de dados
 
 Para criar o banco execute o sql:
 
