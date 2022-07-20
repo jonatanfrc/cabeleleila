@@ -2,15 +2,15 @@
 
 Para rodar a aplicação:
 
-cd server
-npm i
-nodemon start
+* cd server
+* npm i
+* nodemon start
 
 ---
 
-cd client
-npm i
-npm start
+* cd client
+* npm i
+* npm start
 
 # Requisitos
 
