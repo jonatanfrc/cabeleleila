@@ -1,6 +1,6 @@
 # Cabeleleila Teste - DSIN 
 
-Um site para ajudar no salão da leila cabeleleila. 
+Um site para ajudar no salão da leila cabeleleila. \n
 Foi desenvolvido utilizando React.js e Node.js, além do MYSQL Workbench para o banco de dados.
 
 # Para rodar a aplicação:
