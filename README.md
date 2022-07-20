@@ -1,6 +1,6 @@
 # Cabeleleila Teste - DSIN 
 
-Para rodar a aplicação:
+- Para rodar a aplicação:
 
 * cd server
 * npm i
@@ -11,6 +11,14 @@ Para rodar a aplicação:
 * cd client
 * npm i
 * npm start
+
+- Banco de dados
+
+Para criar o banco execute o sql:
+
+create schema cabeleleila;
+
+Depois importe as tabelas com os arquivos da pasta 'bd'
 
 # Requisitos
 
